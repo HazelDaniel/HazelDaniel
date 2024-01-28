@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 💻, I'm Daniel</h1>
 <h3 align="center">Fullstack Software Engineer</h3>
-<p>I'm a full-stack developer with years of learning + project experience.<br> I love to work on projects that are real world applicable, work together with like minded developers / designers and also implement ideas as soon as i get them</p>
+<p>I'm a full-stack engineer with years of learning + project experience.<br> I love to work on projects that are real world applicable, work together with like minded developers / designers and also implement ideas as soon as i get them</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HazelDaniel&label=Profile%20views&color=0e75b6&style=flat" alt="hazel" /> </p>
 
