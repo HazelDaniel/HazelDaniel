@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/UnusualHazel" target="blank"><img src="https://img.shields.io/twitter/follow/UnusualHazel?logo=twitter&style=for-the-badge" alt="UnusualHazel" /></a> </p> -->
 
-- 🌱 I’m currently learning **Typescript, Django and React Native**
+- 🌱 I’m currently learning **Typescript, Graphql, Django and React Native**
 
 - 👯 I’m looking to collaborate on **any Interesting Projects**
 
