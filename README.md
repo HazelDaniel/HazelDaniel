@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript, Graphql, and Remix**
 
-- 👯 I’m looking to collaborate on **any Interesting Projects**
+- 👯 I’m currently collaborating on **an Interesting Project**
 
 <hr></hr>
 
