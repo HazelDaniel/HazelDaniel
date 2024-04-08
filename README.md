@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/UnusualHazel" target="blank"><img src="https://img.shields.io/twitter/follow/UnusualHazel?logo=twitter&style=for-the-badge" alt="UnusualHazel" /></a> </p> -->
 
-- 🌱 I’m currently learning **Typescript, Graphql, Remix and Postgres**
+- 🌱 I’m currently learning **Graphql, Remix,  Postgres, and NodeJS**
 
 - 👯 I’m currently collaborating on **an Interesting Project**
 
