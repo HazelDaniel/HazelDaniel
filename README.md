@@ -12,7 +12,7 @@ I am a passionate software engineer who loves to work on real-world applicable p
 * 🌱 I’m currently learning **Graphql, Remix,  Postgres, NodeJS, TailwindCSS and Socket.io**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HazelDaniel&label=Profile%20views&color=0e75b6&style=flat" alt="hazel" /> </p>
 
-<h2 align="center">Skills</h2>
+<h2 align="end">Skills</h2>
 
 ### Languages & Frameworks
 
@@ -45,7 +45,7 @@ I am a passionate software engineer who loves to work on real-world applicable p
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
 </p>
 
-<h2 align="center">Socials</h2>
+<h2 align="end">Socials</h2>
 
 <p align="left"> <a href="https://www.github.com/HazelDaniel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://toughware.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
@@ -54,7 +54,7 @@ I am a passionate software engineer who loves to work on real-world applicable p
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/UnusualHazel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<h2 align="center">Badges</h2>
+<h2 align="end">Badges</h2>
 
 <b>My GitHub Stats</b>
 
