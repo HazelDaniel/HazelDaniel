@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mid level full-stack software engineer
 --------------------------------------
 
-I am a passionate software engineer who loves to work on real-world applicable projects. I network with like-minded engineers who are intentional about growth and i love implementing ideas as soon as i get them. Alumnus as Alx Africa
+I am a passionate software engineer who loves to work on real-world applicable projects. I network with like-minded engineers who are intentional about growth and i love implementing ideas as soon as i get them. Alumnus at Alx Africa
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [olaleyedaniel2000@gmail.com](mailto:olaleyedaniel2000@gmail.com)
