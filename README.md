@@ -9,7 +9,7 @@ I am a passionate software engineer who loves to work on real-world applicable p
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [olaleyedaniel2000@gmail.com](mailto:olaleyedaniel2000@gmail.com)
 * 🤝  I'm open to collaborating on Technically challenging projects that fall under my domain of expertise
-* 🌱 I’m currently learning **Graphql, Redis, TailwindCSS and Socket.io**
+* 🌱 I’m currently learning **Graphql, Redis, SQLite, TailwindCSS and Socket.io**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HazelDaniel&label=Profile%20views&color=0e75b6&style=flat" alt="hazel" /> </p>
 
 <h2 align="start">Skills</h2>
