@@ -19,7 +19,7 @@ I build real-world, scalable applications and enjoy turning ideas into working p
 - 🤝 Open to collaborating on technically challenging projects  
 - ⚡ I like shipping ideas fast and learning in public  
 - 🎓 Alumnus of ALX Africa  
-- 🌱 Currently learning: **GraphQL, SQLite, TailwindCSS, Socket.io, Rust**
+- 🌱 Currently learning: **Webgl, Socket.io, Rust**
 
 ---
 
